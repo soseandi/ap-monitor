@@ -1,0 +1,3 @@
+node_modules/
+ap_monitor.sqlite*
+*.log
